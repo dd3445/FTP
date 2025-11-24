@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///F:/TestRoot2/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0",
+    "name": "outpost (Minecraft 1.20.1)",
+    "description": "outpost Running Minecraft 1.20.1 (Forge v47.4.0)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "apkserver.mcv.kr:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.0"
+  },
+  "untrackedFiles": []
+}
